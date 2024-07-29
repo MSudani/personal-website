@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mohamed Abdirahman Ali - Personal Webpage</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        .header, .footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 1em 0;
+        }
+        .container {
+            padding: 20px;
+        }
+        .profile-pic {
+            width: 150px;
+            height: 150px;
+            border-radius: 50%;
+            display: block;
+            margin: 0 auto;
+        }
+        .content {
+            text-align: center;
+        }
+        .social-media {
+            text-align: center;
+            margin-top: 20px;
+        }
+        .social-media a {
+            margin: 0 10px;
+            text-decoration: none;
+            color: #333;
+        }
+        .social-media a:hover {
+            color: #007BFF;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="header">
+        <h1>Mohamed Abdirahman Ali (Sudani)</h1>
+        <p>Social and Environmental Activist | Finance Specialist</p>
+    </div>
+
+    <div class="container">
+        <div class="content">
+            <img src="profile-pic.jpg" alt="Profile Picture" class="profile-pic">
+            <h2>About Me</h2>
+            <p>Hello! I'm Mohamed Abdirahman Ali, also known as Sudani. I am passionate about social and environmental activism and have a flair for creativity. With over 10 years of experience as a finance specialist, I have worked with various local and international NGOs in Mogadishu.</p>
+            
+            <h2>Interests</h2>
+            <p>In addition to my professional work, I am deeply interested in social activism and sports. I also enjoy engaging in fun mind games to keep my mind sharp and active.</p>
+        </div>
+
+        <div class="social-media">
+            <h2>Connect with Me</h2>
+            <a href="https://instagram.com/MSUDAANI" target="_blank">Instagram</a> |
+            <a href="https://twitter.com/MSUDAANI" target="_blank">Twitter</a> |
+            <a href="https://facebook.com/MSUDAANI" target="_blank">Facebook</a>
+        </div>
+    </div>
+
+    <div class="footer">
+        <p>&copy; 2024 Mohamed Abdirahman Ali. All rights reserved.</p>
+    </div>
+
+</body>
+</html>
